@@ -72,8 +72,10 @@ textarea {
 
 .form-group {
   margin-bottom: 25px;
-  text-align: center;
 }
 span {
   text-align: center;
+}
+h1 {
+  margin: 20px;
 }
